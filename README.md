@@ -23,3 +23,5 @@ You can check the <a href="https://github.com/Ventile-Client/Launcher/issues">is
 ## License
 This is licensed under the Creative Commons Attribution-NonCommerical 4.0 International License. 
 To view this full license, check https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+## Bruh do I Have permmisons to skid this???
